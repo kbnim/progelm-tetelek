@@ -1,2 +1,2 @@
-# progelm-tetelek
+# Programozáselmélet tételek
 Programozáselmélet tételek bizonyítással.
